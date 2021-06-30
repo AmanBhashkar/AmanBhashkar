@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 
 -->
-- 🔭 I’m currently working on Flask
+- 🔭 I’m currently working with Flask
 - 🌱 I’m currently learning React 
 - 👯 I’m looking to collaborate on React frontend with flask/FastAPI backend
 - 🤔 I’m looking for help with Docker
