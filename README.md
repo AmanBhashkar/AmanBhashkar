@@ -12,4 +12,4 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with Docker
 - 💬 Ask me about ...Anything
 - 📫 How to reach me: aman.da19@iiitmk.ac.in
-- ⚡ Fun fact:  
+- ⚡ Fun fact: I love Anime
