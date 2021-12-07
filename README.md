@@ -6,9 +6,9 @@
 Here are some ideas to get you started:
 
 -->
-- 🔭 I’m currently working with Flask
-- 🌱 I’m currently learning React 
-- 👯 I’m looking to collaborate on React frontend with flask/FastAPI backend
+- 🔭 I’m currently working with FastAPI,PostgreSQL, 
+- 🌱 I’m currently learning Vue.js
+- 👯 I’m looking to collaborate on Vue frontend with FastAPI backend
 - 🤔 I’m looking for help with Docker
 - 💬 Ask me about ...Anything
 - 📫 How to reach me: aman.da19@iiitmk.ac.in
